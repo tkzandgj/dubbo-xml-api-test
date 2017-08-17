@@ -1,0 +1,12 @@
+com\gomeplus\gax\bean\proto\StrategyRequestProto.class
+com\gomeplus\gax\bean\proto\StrategyRequestProto$StrategyRequest$Builder.class
+com\gomeplus\gax\bean\proto\StrategyRequestProto$StrategyRequest$1.class
+com\gomeplus\gax\bean\proto\StrategyResponseProto$StrategyResponse$1.class
+com\gomeplus\gax\bean\proto\StrategyResponseProto.class
+com\gomeplus\gax\bean\proto\StrategyRequestProto$StrategyRequestOrBuilder.class
+com\gomeplus\gax\bean\proto\StrategyResponseProto$StrategyResponse$Builder.class
+com\gomeplus\gax\bean\proto\StrategyResponseProto$StrategyResponse.class
+com\gomeplus\gax\bean\proto\StrategyResponseProto$StrategyResponseOrBuilder.class
+com\gomeplus\gax\bean\proto\StrategyRequestProto$StrategyRequest.class
+com\gomeplus\gax\bean\proto\StrategyResponseProto$1.class
+com\gomeplus\gax\bean\proto\StrategyRequestProto$1.class

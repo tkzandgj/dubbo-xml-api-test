@@ -1,0 +1,3 @@
+com\gome\consumer\ProviderAPI.class
+com\gome\consumer\service\StuService.class
+com\gome\consumer\serviceImpl\StuServiceImpl.class
